@@ -1,8 +1,9 @@
 // Defining Variables
 
 var age;
-age = 51; //definition
+age = 51; //Number Variable
 
-//storage container = value
+var isStudent = false;//Boolean Variable
 
-var yearOfBirth = 1963; //declaring and defining on the same line
+var firstName = "Teresa";
+var phrase = 'I don\'t know \n You\'ll have to speak with the professor"';
