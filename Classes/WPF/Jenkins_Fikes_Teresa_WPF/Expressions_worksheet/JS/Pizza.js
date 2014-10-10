@@ -9,21 +9,23 @@ alert("A bunch of students are having a party and somebody ordered pizza. How mu
 //Create a variable to catch their answer
 
 var numberOfSlices = prompt("How many slices per pizza?");
-
 console.log(numberOfSlices);
 
-var numberOfPeople = prompt("How many people are at the party?");
 
-//Console.log out the response
-console.log(numberOfPeople);
+// Ask the user how many pizzas were ordered?
+var numberOfPizzas =prompt("How many pizzas were ordered?");
 
-var numberOfPizzas= prompt("How many pizzas were ordered?");
 
 //Console.log out the response
 console.log(numberOfPizzas);
 
+//Ask the user how many people are at the party?");
+var numberOfPeople = prompt("How many people are at the party?");
+console.log(numberOfPeople);
 
 
+var answer = numberOfSlices * numberOfPizzas/numberOfPeople;
+console.log(answer);
 
 
 //Current year and subtract the year they were born
