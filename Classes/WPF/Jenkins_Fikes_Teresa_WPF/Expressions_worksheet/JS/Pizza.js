@@ -28,11 +28,5 @@ var answer = numberOfSlices * numberOfPizzas/numberOfPeople;
 console.log(answer);
 
 
-//Current year and subtract the year they were born
 
-//Create a variable for the current year
-
-var currentYear = 2014;
-
-//Calculate the age
 
