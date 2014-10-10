@@ -17,4 +17,4 @@ var b = a * 1; //humanYears
 console.log(a);
 
 alert("Sparky is 7 years old in dog years");
-console.log(b)
+console.log(b);
