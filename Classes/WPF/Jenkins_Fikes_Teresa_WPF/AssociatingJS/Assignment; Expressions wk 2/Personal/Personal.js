@@ -24,4 +24,19 @@ var mpg = 34;
 //console.log out the response
 console.log(34);
 
+//ask the user the local gas price per gallon
+var gasPricePerGallon = prompt("What is the local gas price per gallon?");
+//console.log out the response
+
+var gasPricePerGallon = $3.25;
+console.log(gasPricePerGallon);
+
+//trip mileage one way from Corinth, MS to Webb, AL is 375 miles
+
+
+var miles = 375;
+console.log(miles)
+
+var answer = 375 / 34 * $3.25;
+console.log(answer);
 
