@@ -25,6 +25,8 @@ var mpg = 34;
 console.log(34);
 
 //ask the user the local gas price per gallon
+alert(What is the local gas price per gallon?);
+
 var gasPricePerGallon = prompt("What is the local gas price per gallon?");
 //console.log out the response
 
@@ -35,7 +37,9 @@ console.log(gasPricePerGallon);
 
 
 var miles = 375;
-console.log(miles)
+console.log(miles);
+alert(var answer);
+
 
 var answer = 375 / 34 * $3.25;
 console.log(answer);
