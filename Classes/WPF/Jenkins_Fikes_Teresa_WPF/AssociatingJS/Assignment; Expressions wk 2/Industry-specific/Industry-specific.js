@@ -8,9 +8,11 @@
 alert(Graphic Artist use Geometry in their designs, so let us see what the area of a rectangle is');
 
 
-var width =prompt("We are calculating the area of a rectangle. \nPlease enter the width");
-var height = prompt("Please enter the height.");
-var area = width * height; //calculates with that info
+//Triangle formula
+
+var base =prompt("We are calculating the area of a triangle. \nPlease enter the base");
+var verticlHeight = prompt("Please enter the height.");
+var area = 1/2 * b * h; //calculates with that info
 //console.log(area); //prints it out to console
 
 alert("The area of you rectangle is " + area + " sq feet");
