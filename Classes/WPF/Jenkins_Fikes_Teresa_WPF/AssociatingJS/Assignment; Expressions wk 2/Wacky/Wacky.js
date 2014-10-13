@@ -6,18 +6,8 @@
 
 //array-Halloween Candy
 
-prompt(Halloween Candy Choices)
-var Candy = new Array( "Hersey", "Nestle", "Mars", "Taffy", "Homemade", "Toffee");
-console.log(candy);
-Hersey[0] = "Hersey"
-Nestle[1] = "Nestle"
-Mars[2] = "Mars"
-Taffy[4] = "Taffy"
-Homemade[5] = "Homemade"
-Toffee[6] = "Toffee"
+prompt = (How much Halloween Candy)
+var choices = [2,3,4,5,6,7]
+var total = HerseyCandy[0] + nestleCandy [1] + marsCandy[2] +  taffyCandy{3} + homemadeCandy{4} + toffeeCandy[5];
 
-document.write("Hersey is "+candy[0])
-console.log(write);
-
-
-
+console.log(total);
