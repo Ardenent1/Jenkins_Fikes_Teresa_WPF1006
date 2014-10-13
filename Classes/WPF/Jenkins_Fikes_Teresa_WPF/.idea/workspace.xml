@@ -23,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Industry-specific.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.html">
+      <file leaf-file-name="WackyIndex.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/WackyIndex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="240">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Industry-specific.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.js">
+      <file leaf-file-name="Wacky.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7744565" vertical-offset="0" max-vertical-offset="375">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.31496063" vertical-offset="0" max-vertical-offset="381">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -73,7 +73,9 @@
         <option value="$PROJECT_DIR$/AssociatingJS/Screencast assignment/Screencast.html" />
         <option value="$PROJECT_DIR$/AssociatingJS/Screencast assignment/screencast.js" />
         <option value="$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.html" />
+        <option value="$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/WackyIndex.html" />
         <option value="$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.js" />
+        <option value="$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/Wacky.js" />
       </list>
     </option>
   </component>
@@ -221,6 +223,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Assignment; Expressions wk 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,18 +636,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28" max-vertical-offset="550">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.21008404" vertical-offset="0" max-vertical-offset="357">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Industry-specific/Industry-specific.js">
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/WackyIndex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7744565" vertical-offset="0" max-vertical-offset="375">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="240">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssociatingJS/Assignment; Expressions wk 2/Wacky/Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31496063" vertical-offset="0" max-vertical-offset="381">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
