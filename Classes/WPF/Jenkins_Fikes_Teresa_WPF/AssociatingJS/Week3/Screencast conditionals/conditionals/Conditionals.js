@@ -5,7 +5,10 @@
  */
 
 if(sunny){
-    gotToTheBeach
-}else{
-    goToTheMovies
+    goToTheBeach();
+    if(warmWater) {
+    }
+
+ }else{
+        goToTheMovies();
 }
