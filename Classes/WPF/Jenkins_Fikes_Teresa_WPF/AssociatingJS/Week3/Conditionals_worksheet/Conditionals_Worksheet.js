@@ -8,22 +8,16 @@
 //A driver has to determine if they can make it across the desert with their current fuel.  They are about to past the last gas station for the next 200 miles and they need to determine whether they should stop now for gas or not.
 //Ask the user "What is the mpg of you car?"
 
+prompt("What is the mpg of you car?);
+
 function calcMPG(){
-    var mpg;
-    var gaugeReading = %;
-    var gasTankCapacity = gallons;
-    if ((isNan(mpg)) || (isNan(gaugeReading) || (isNan(gasTankCapacity))){
-        console.log("Enter 200 for the mileage distance to the next station.");
-    }else
-    {
-        if (gallons > 0){
-            document.forms[0].mpg.value= ((
-
-
-
-                (mpg>0) && (gaugeReading>0)&& (gasTankCapacity>0)
-        }
-        answer = (mpg-gaugeReading)/gasTankCapacity;{
-        if (prompt (“Yes, you can make it without stopping for gas!”){
+    var mpg; alert("What is the MPG fo your car?");
+    var gaugeReading = %; alert ("What is the gauge reading if you add 200 miles to it?");
+    var gasTankCapacity = gallons; alert("How many gallons is the gas tank capacity?");
+    if (mpg || gaugeReading || gasTankCapacity){
+        console.log(“Yes, you can make it without stopping for gas!");
+    }else{
+        answer = (mpg-gaugeReading)/gasTankCapacity;
+    }{
     else if} (“You only have X gallons of gas in your tank, better get gas now while you can!”)
 }
