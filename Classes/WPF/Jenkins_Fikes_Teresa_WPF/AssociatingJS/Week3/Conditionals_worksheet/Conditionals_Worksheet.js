@@ -6,33 +6,21 @@
  */
 //if the room temperature is 32 degrees Fahrenheit, what is the degrees in Celsius?
 
-
-
-
-var degFrahren =Number(prompt ("Enter the degrees Fahrenheit",32));
-var degCent;
-
-degCent = 5/9 * (degFahren _32);
-console.log(degFahren + "\xBO Fehrenheit is " + degCent + "/xBO centigrade<br />");
-
-if (degCent < 0){
-    console.log ("The temperature is 0 degrees Celsius that's below the freezing point of water");
-
+alert("Enter the degrees Fahrenheit, 32");
+function convert(degree) {
+    if (degree == "C") {
+        F = document.getElementById("c").value * 9 / 5 + 32;
+        document.getElementById("f").value = Math.round(F);
+    } else	{
+        C = (document.getElementById("f").value -32) * 5 / 9;
+        document.getElementById("c").value = Math.round(C);
+    }
 }
-if (degCent == 100)
-    console.log("That's the boiling point of water");
+</script>
+</head>
 
-
-Degrees = (in F or C);
-Unit = (a string holding an "F" or a "C");
-
-
-Result = "The temperature is X degrees Celsius." Or "The temperature is X degrees Fahrenheit.";
-
-Data Sets to Test; (Note that data sets are not the only numbers that should work with your code.)
-
-32F is 0C
-100C is 212
-F90F is 32.22C
-
-
+<body>
+<p>Insert a number into one of the input fields below:</p>
+<input id="c" onkeyup="convert('C')"> degrees Celsius<br>
+equals<br>
+<input id="f" onkeyup="convert('F')"> degrees Fahrenheit
