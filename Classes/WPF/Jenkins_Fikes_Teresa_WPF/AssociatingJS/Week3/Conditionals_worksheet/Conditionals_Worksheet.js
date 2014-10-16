@@ -6,7 +6,6 @@
  */
 //if the room temperature is 32 degrees Fahrenheit, what is the degrees in Celsius?
 
-alert("Enter the degrees Fahrenheit, 32");
 function convert(degree) {
     if (degree == "C") {
         F = document.getElementById("c").value * 9 / 5 + 32;
@@ -23,4 +22,4 @@ function convert(degree) {
 <p>Insert a number into one of the input fields below:</p>
 <input id="c" onkeyup="convert('C')"> degrees Celsius<br>
 equals<br>
-<input id="f" onkeyup="convert('F')"> degrees Fahrenheit
+<input id="f" onkeyup="convert('F')"> degrees Fahrenheit eyup="convert('F')"> degrees Fahrenheit
