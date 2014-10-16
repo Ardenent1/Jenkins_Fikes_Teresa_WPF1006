@@ -39,8 +39,8 @@
       <file leaf-file-name="Conditionals.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AssociatingJS/Week3/Screencast conditionals/conditionals/Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8802817" vertical-offset="56" max-vertical-offset="408">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7183099" vertical-offset="0" max-vertical-offset="323">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -87,8 +87,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="570" />
-    <option name="y" value="22" />
+    <option name="x" value="561" />
+    <option name="y" value="300" />
     <option name="width" value="881" />
     <option name="height" value="404" />
   </component>
@@ -255,7 +255,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="570" y="22" width="881" height="404" extended-state="0" />
+    <frame x="561" y="300" width="881" height="404" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -533,6 +533,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23291926" vertical-offset="210" max-vertical-offset="765">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -635,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/Week3/Screencast conditionals/conditionals/Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8802817" vertical-offset="56" max-vertical-offset="408">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7183099" vertical-offset="0" max-vertical-offset="323">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
