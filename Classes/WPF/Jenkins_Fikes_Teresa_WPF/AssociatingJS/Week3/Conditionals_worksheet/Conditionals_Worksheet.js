@@ -4,20 +4,28 @@
  * WPF 1408 Section 01
  Conditionals Week 3
  */
-//Last Chance for Gas!
-//A driver has to determine if they can make it across the desert with their current fuel.  They are about to past the last gas station for the next 200 miles and they need to determine whether they should stop now for gas or not.
-//Ask the user "What is the mpg of you car?"
+//Grade Letter Calculator
 
-prompt("What is the mpg of you car?);
+//Ask the student what is the number grade at the conclusion of a course at Full Sail.
 
-function calcMPG(){
-    var mpg; alert("What is the MPG fo your car?");
-    var gaugeReading = %; alert ("What is the gauge reading if you add 200 miles to it?");
-    var gasTankCapacity = gallons; alert("How many gallons is the gas tank capacity?");
-    if (mpg || gaugeReading || gasTankCapacity){
-        console.log(“Yes, you can make it without stopping for gas!");
-    }else{
-        answer = (mpg-gaugeReading)/gasTankCapacity;
-    }{
-    else if} (“You only have X gallons of gas in your tank, better get gas now while you can!”)
-}
+//A student earns a number grade at the conclusion of a course at Full Sail.  Determine the appropriate letter grade for that number using conditional statements.
+
+
+var gradesGood = new Array["A+95-100", "A90-94", "B+85-89", "B80-84" "C73-79","D70-72", "F0-69"];
+
+
+A= +95-100
+A= 90-94
+B= +85-89
+B= 80-84
+C= 73-79
+D= 70-72
+F= 0-69
+
+gradePercent[%] = prompt(“You have a X%, which means you have earned a(n) X in the class!")
+
+    console.log("You have a X%, which means you have earned a(n) X in the class!");
+
+
+
+
