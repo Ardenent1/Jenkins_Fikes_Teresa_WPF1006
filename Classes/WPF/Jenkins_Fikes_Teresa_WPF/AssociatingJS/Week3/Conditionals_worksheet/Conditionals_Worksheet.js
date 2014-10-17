@@ -4,28 +4,40 @@
  * WPF 1408 Section 01
  Conditionals Week 3
  */
-//Grade Letter Calculator
+<form action="">
+Username: <input type="text" name="user"><br>
+Password: <input type="password" name="password">
+    </form>
 
-//Ask the student what is the number grade at the conclusion of a course at Full Sail.
+    <p><b>Note:</b> The characters in a password field are masked (shown as asterisks or circles).</p>
 
-//A student earns a number grade at the conclusion of a course at Full Sail.  Determine the appropriate letter grade for that number using conditional statements.
+    var concatString = (“Welcome, + "name" + !”);{
+    else{Prompt= (“User not found. Try again.”
 
+    }
+    }
+//if the username and password is correct
 
-var gradesGood = new Array["A+95-100", "A90-94", "B+85-89", "B80-84" "C73-79","D70-72", "F0-69"];
+  -if the username does not match
+“Password does not match our records.”)  -if the username matches but the password does not
 
-
-A= +95-100
-A= 90-94
-B= +85-89
-B= 80-84
-C= 73-79
-D= 70-72
-F= 0-69
-
-gradePercent[%] = prompt(“You have a X%, which means you have earned a(n) X in the class!")
-
-    console.log("You have a X%, which means you have earned a(n) X in the class!");
+</body>
+</html>
 
 
 
 
+
+Check the Login
+
+Make sure the user has the correct username and password. If the username doesn’t match then a specific message for that should be printed to the console. If the password doesn’t match a message should appear for that, etc. Only one error message should appear.
+
+    Given:
+Username entered by user
+Password entered by user
+Correct username
+Correct password
+Result To Print Out:
+    “Welcome, (place their username here)!”  - if the username and password is correct
+“User not found. Try again.” -if the username does not match
+“Password does not match our records.”  -if the username matches but the password does not
