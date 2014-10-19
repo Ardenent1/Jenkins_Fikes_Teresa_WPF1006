@@ -28,6 +28,9 @@
     sentence += price +'<br>';
     total += price;
 
-    
+    sentence += "<br>";
+    sentence += 'Total cost: $'+total;
+    console.log("inserts").innerHTML=sentence;
+}
 
 
