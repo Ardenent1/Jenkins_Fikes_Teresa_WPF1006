@@ -17,3 +17,17 @@
         var sentence = ("The ticket price is + "X");
         var price = document.getElementById('Ctickets').value * Cquantity;
 
+    sentence += name + "<br>purchased "+Cquantity+" Child ticket(s) to \"";
+    sentence += movie + "\" for $";
+    sentence += price;
+    total += price;
+
+    price = document.getElementById('Atickets').value * Aquantity;
+    sentence += "<br>and "+Aquantity+" Adult ticket(s) to \"";
+    sentence += movie + "\" for $";
+    sentence += price +'<br>';
+    total += price;
+
+    
+
+
