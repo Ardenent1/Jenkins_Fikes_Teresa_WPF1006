@@ -18,6 +18,7 @@ Alarm.prototype = {
     check: function () {
 
         var psiPressureValue = this._sensor.popNextPressurePsiValue();
+        console.log("The tires pass spec!")
 
         if (psiPressureValue < this._lowPressureTreshold || this._highPressureTreshold < psiPressureValue)
         {
@@ -26,7 +27,7 @@ Alarm.prototype = {
     },
 
     alarmOn: function () {
-        console.log(alarmOn);
+        console.log("Get your tires checked out!");
     }
 
 };
