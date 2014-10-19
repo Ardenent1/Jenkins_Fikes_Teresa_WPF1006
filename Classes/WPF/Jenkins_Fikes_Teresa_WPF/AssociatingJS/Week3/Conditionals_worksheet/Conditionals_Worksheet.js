@@ -2,29 +2,31 @@
  * Teresa Jenkins Fikes
  * 10/16/14.
  * WPF 1408 Section 01
- Conditionals Week 3
+ Conditionals Week 3-Tire Pressure
  */
-//Ask the user to type in their username and password
+//
+Alarm = function() {
 
-var Username = prompt("Type in your username");
-var Password = Prompt("Type in your password");
+    var lowPressureTreshold = 17;
+    var highPressureTreshold = 21;
+    var sensor = new Sensor();
+    var alarmOn = false;
+};
 
-//if the username and password is not correct
-if(usernameIncorrect) {
-    UserNotFound;
-}
-}else{
-    "Try Again!"}
-}
+Alarm.prototype = {
 
- //The characters in a password field are masked (shown as asterisks or circles).</p>
+    check: function () {
 
- var concatString = (“Welcome, + "name" + !”);{if the username and password is correct.{
-    {else{Prompt=(“User not found. Try again.”);
-    console.log("User not found. Try again.");
-}
-“Password does not match our records.”);{
-    }else if{
-      console.log(the username matches but the password does not);
+        var psiPressureValue = this._sensor.popNextPressurePsiValue();
+
+        if (psiPressureValue < this._lowPressureTreshold || this._highPressureTreshold < psiPressureValue)
+        {
+            this._alarmOn = true;
+        }
+    },
+
+    alarmOn: function () {
+        console.log(alarmOn);
     }
 
+};
