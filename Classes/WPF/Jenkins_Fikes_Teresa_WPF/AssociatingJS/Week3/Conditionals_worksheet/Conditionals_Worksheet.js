@@ -25,5 +25,6 @@ if(usernameIncorrect) {
 }
 “Password does not match our records.”);{
     }else if{
-    }  -if the username matches but the password does not
+      console.log(the username matches but the password does not);
+    }
 
