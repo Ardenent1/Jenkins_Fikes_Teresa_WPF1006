@@ -6,3 +6,7 @@
  */
 //Is the College Student old enough to drink a Tequila Sunrise?
 
+var age = 21
+var drink;
+//if person is under 21, they get a soft drink, otherwise they get a Tequila Sunrise
+
