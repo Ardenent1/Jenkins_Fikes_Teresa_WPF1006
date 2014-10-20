@@ -10,3 +10,5 @@ var age = 21
 var drink;
 //if person is under 21, they get a soft drink, otherwise they get a Tequila Sunrise
 
+drink = (age < 21) ? “a soft drink” : “Tequila Sunrise
+console.log(drink);
