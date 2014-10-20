@@ -15,14 +15,14 @@ var inform="From url: "+x+" using browser: "+navigator.appName+" "+navigator.app
     </script>
 <table border="0" cellpadding="0" cellspacing="0" width="230" bgcolor="#F6CED8">
     <tr>
-        <td align="center" valign="top"><font size="6" face="New Times Roman">Poll </font></td>
+        <td align="center" valign="top"><font size="6" face="New Times Roman">Poll</font></td>
     </tr>
 </table>
 <table border="0" width="230">
     <tr>
         <td><font face="Times New Roman"><strong>Do you think this class is fun?</strong></font><form
         console.log('<input type="hidden" name="info"
-            value='+'"'+inform+'">')
+            value='+'"'+inform+'">');
             //-->
             </script></td>
         </tr>
@@ -31,4 +31,4 @@ var inform="From url: "+x+" using browser: "+navigator.appName+" "+navigator.app
             <td align="right" valign="top" width="30%"><input type="radio" name="response" value="no"><br>
             </td>
                 <td align="right" width="40%"><input type="submit" name="B1" value="Submit!"
-                style="background-color:yellow"></td>
+                style="background-color:pink"></td>
