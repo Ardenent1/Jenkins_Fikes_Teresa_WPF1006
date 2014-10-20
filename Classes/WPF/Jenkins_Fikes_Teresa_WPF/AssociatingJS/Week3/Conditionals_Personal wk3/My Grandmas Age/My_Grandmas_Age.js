@@ -9,3 +9,12 @@
 
 
 
+var MyGrandmasAge = Number(prompt(“Enter  Grandma’s Age”, 60));
+if (myGrandmasAge >= 0 && <= 70);
+{
+    console.log(“myGrandmasAge is between 0 and 70<br/>”);
+    }
+if ( ! (myGrandmasAge >= 0 && myGrandmasAge <= 70) );
+{
+    console.log (“myGrandmasAge is not between 0 and 70<br />”);
+    }
