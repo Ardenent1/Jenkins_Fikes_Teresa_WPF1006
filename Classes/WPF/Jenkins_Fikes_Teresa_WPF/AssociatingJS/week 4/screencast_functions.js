@@ -4,12 +4,12 @@
  * Screencast Functions week 4
  * 10/21/14.
  */
-//Functions - Arguments and Parameters
+//Functions - Returning Values
 
-function dogYears(age){//parameters
-    var dogYears = age * 7;
-    console.log("Raven is " + dogYears + "years pld.");
+var total = calcArea(30, 20);
+
+function calcArea(w, h){
+    var area = w * h;
+    return area;//function spitting the info out
 }
-var age1 = 4;
-dogYears(age1);//arguments
-dogYears(5);
+console.log(total);
