@@ -4,10 +4,9 @@
  * Screencast Functions week 4
  * 10/21/14.
  */
-//Functions - Function Execution
+//Functions - Variable Scope
 
-function outptMsg(){
-    console.log("Hello World");
+var width = 5;
 }
 
 function calcArea(){
@@ -17,5 +16,4 @@ function calcArea(){
     console.log(area);
 }
 calcArea();
-calcArea();
-calcArea();
+console.log(width);
