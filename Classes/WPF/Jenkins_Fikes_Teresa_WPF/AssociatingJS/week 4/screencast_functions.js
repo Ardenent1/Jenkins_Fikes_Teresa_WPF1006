@@ -4,16 +4,15 @@
  * Screencast Functions week 4
  * 10/21/14.
  */
-//Functions - Functions vs Procedure
+//Functions -the difference between "normal" and anonymous functions.
 
- //this is a function
-function calcArea(width, height) {
-    var area = width * height;
-   return area;
 
-//this is a procedure
-function calcArea(width, height) {
-    var area = width * height;
-    console.log(area);//no return
+
+
+function calcArea(width, height){//defining
+    //code the function runs
+    var area= width * height;
+    return area;
 }
-
+var  a = calcArea(20, 30);//invoking
+console.log(a);
