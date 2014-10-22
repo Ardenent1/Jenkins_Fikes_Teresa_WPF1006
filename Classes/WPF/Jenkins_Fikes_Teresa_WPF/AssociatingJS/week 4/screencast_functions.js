@@ -4,7 +4,7 @@
  * Screencast Functions week 4
  * 10/21/14.
  */
-//Functions -the difference between "normal" and anonymous functions.
+//Functions -Anonymous Functions.
 
 
 
