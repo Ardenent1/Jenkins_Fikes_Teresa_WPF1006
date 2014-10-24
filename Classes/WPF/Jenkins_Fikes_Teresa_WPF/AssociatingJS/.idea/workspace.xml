@@ -40,8 +40,8 @@
       <file leaf-file-name="Industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Assignment Functions/Industry/Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.446281" vertical-offset="0" max-vertical-offset="605">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.57024795" vertical-offset="0" max-vertical-offset="605">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -84,8 +84,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="757" />
-    <option name="y" value="115" />
+    <option name="x" value="787" />
+    <option name="y" value="52" />
     <option name="width" value="1324" />
     <option name="height" value="723" />
   </component>
@@ -307,7 +307,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="757" y="115" width="1324" height="723" extended-state="1" />
+    <frame x="787" y="52" width="1324" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -635,8 +635,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Assignment Functions/Industry/Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.446281" vertical-offset="0" max-vertical-offset="605">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.57024795" vertical-offset="0" max-vertical-offset="605">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding />
         </state>
       </provider>

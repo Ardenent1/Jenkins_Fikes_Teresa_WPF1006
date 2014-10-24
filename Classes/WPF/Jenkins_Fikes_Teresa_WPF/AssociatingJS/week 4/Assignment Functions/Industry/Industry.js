@@ -6,14 +6,20 @@
  */
 
 // Create a function that takes two arguments and returns the sum of those arguments
-//Web Design Assignment is ordered
-//Design rate is $800
-//writing rate is $200 for 5 post
+//Writing Assignment is ordered for 5 blog post
 
-var designRate = a;
-var writingRate = b;
-var calc = new Function('a', 'b', 'return a + b');
+//writing rate is $20 for each blog post
 
-// Call the function
-result(2, 6);
-// > 8
+
+var calcRate = function(writingRate, amountOfPost) { //defining
+//code the function runs
+    var rate = writingRate * amountOfPost;
+    return area;
+}
+var a = calcRate(20, 5);//invoking
+
+console.log(a);
+
+
+//Client changes mind and wants to add one press release post
+//A press release post rate is $75
