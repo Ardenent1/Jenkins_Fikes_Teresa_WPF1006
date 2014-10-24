@@ -29,6 +29,9 @@ public class Main {
                 System.out.printn(sb);
             }
 
+//Wacky out of my mind and don't know what to really put expect a listing of different codes
+            alert("Please enter your age");
+
 
 
 
