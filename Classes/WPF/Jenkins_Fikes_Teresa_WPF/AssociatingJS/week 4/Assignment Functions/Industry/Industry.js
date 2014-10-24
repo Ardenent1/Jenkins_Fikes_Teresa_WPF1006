@@ -31,4 +31,3 @@ if(writingRate > prRate){
     console.log("The orignal price applies");
   }
 
-    
