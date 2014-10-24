@@ -22,4 +22,13 @@ public class Main {
                 If (j == 0) {
                     sb.append(“The capital of  “);
                 }
-            
+            else {
+                    sb.append(“ is “);
+                    sb.append(states[i][j];
+                }
+                System.out.printn(sb);
+            }
+
+
+
+
