@@ -31,6 +31,8 @@ public class Main {
 
 //Wacky out of my mind and don't know what to really put expect a listing of different codes
             alert("Please enter your age");
+            var Age = 65
+            var retirementAge;
 
 
 
