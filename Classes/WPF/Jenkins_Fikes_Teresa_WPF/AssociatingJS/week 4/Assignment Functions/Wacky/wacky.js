@@ -34,6 +34,9 @@ public class Main {
             var Age = 65
             var retirementAge;
 
+//user is under 65, they have to work, otherwise the draw Social Security Retirement
+            retirementAge = (age < 65) ? "You have to continue to Work!" : "You get Social Security Retirement!";
+            console.log(retirementAge);
 
 
 
