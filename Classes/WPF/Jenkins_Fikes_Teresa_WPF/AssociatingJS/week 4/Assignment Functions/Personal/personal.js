@@ -18,10 +18,19 @@ if(numStudents > numCandyBags){
 //code performed if condition is false
     console.log("You need more candy bags!");
 }
+//if user has candy bags leftover
+if(numCandyBags < numStudents){
+    console.log("You have enough candy bags!");
+}else{
+    console.log("You don't have enough Candy Bags!"): console.log("You don't have enough Candy Bags!");
+}
 
+    (numCandyBags < numStudents) ? console.log("You have enough candy Bags!") :
 function subtractNumbers(num1, num2){
         return num1 - num2;//just return the difference of the two number arguments
 }
+
+
 
 
 
