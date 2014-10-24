@@ -20,5 +20,15 @@ var total = calcRate = function(writingRate, amountOfPost) { //defining
 console.log(total);
 
 
-//Client changes mind and wants to add one press release post
+//But if Client wants to add one press release post to the order
 //A press release post rate is $75
+var prRate
+if(writingRate > prRate){
+    //add prRate
+    console.log("Add prRate to the bill")
+  }else if{writingRate * amountOfPost){
+    //you keep the writing rate times the amount of post
+    console.log("The orignal price applies");
+  }
+
+    
