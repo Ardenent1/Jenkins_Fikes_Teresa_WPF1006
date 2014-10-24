@@ -11,14 +11,13 @@
 //writing rate is $20 for each blog post
 
 
-var calcRate = function(writingRate, amountOfPost) { //defining
+var total = calcRate = function(writingRate, amountOfPost) { //defining
 //code the function runs
     var rate = writingRate * amountOfPost;
+    var a = calcRate(20, 5);//invoking
     return area;
 }
-var a = calcRate(20, 5);//invoking
-
-console.log(a);
+console.log(total);
 
 
 //Client changes mind and wants to add one press release post
