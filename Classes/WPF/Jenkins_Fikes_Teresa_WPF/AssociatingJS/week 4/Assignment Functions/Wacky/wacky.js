@@ -16,5 +16,10 @@ public class Main {
         Countries [2][0] = “Finland”;
         Countries [2][1] = “Helsinki”;
 
-
-
+        For (int I + 0; I < countries.length; i++) {
+            StringBuilder sb = new StringBuilder();
+            For (int j = 0; j < countries[i].length; j++) {
+                If (j == 0) {
+                    sb.append(“The capital of  “);
+                }
+            
